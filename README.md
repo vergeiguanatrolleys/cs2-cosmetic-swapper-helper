@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=50&pause=450&color=FF4500&center=true&vCenter=true&width=1200&height=140&lines=CS2+SKIN+CHANGER+2026;WEAPONS+%7C+KNIVES+%7C+GLOVES;SEE+EVERY+SKIN" alt="CS2 Skin Changer 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c92842f8-05c0-46a8-ab63-fbf369e84710" />
 
 <br/>
 
